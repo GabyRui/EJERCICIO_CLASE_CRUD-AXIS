@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "diego"
+    },
+    {
+      "title": "json-holi",
+      "author": "me again",
+      "id": 3
+    },
+    {
+      "title": "fgdg",
+      "author": "gdfgd",
+      "id": 4
+    },
+    {
+      "title": "Gaby Ruiz",
+      "author": "Bertha Ruiz",
+      "id": 5
+    },
+    {
+      "title": "Carlos Ruiz",
+      "author": "Abimael Muñoz",
+      "id": 6
+    },
+    {
+      "title": "Carlos Ruiz",
+      "author": "Abimael Muñoz",
+      "id": 7
+    }
+  ]
+}
